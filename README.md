@@ -69,3 +69,7 @@ source venv/bin/activate
 ```
 
 This regenerates `icon.icns` from `icon.png` and builds `dist/HOA Payment History Converter.app` from `payment_history_converter.spec`. **The script deletes `build/` and `dist/` first,** so move any app you want to keep out of `dist/` before running it.
+
+## License
+
+[MIT](LICENSE)
